@@ -11,7 +11,16 @@ Collects real quotes, with links, from people who match your ideal customer, and
 
 ## How to run it
 
-Switch to a deep research mode. Fill in the brackets, including the sources that fit your market (see [Choosing sources](../README.md#choosing-sources)). If some of your customers talk in private groups or on login-only sites, collect a few posts by hand and paste them into the optional slot. Save the output as **Voice of Customer**.
+Switch to a deep research mode. Fill in the brackets, including the sources that fit your market (see [Choosing sources](../README.md#choosing-sources)). If some of your customers talk in private groups or on login-only sites, collect posts by hand and paste them into the optional slot (see below). Save the output as **Voice of Customer**.
+
+### Collecting from private groups and LinkedIn
+
+AI tools cannot read content behind a login, and automated access breaks the terms of most of these platforms. Collecting by hand gives you the same quality without that risk:
+
+1. Search inside the group or on LinkedIn for the keywords of the problem, the names of competitors and phrases like "anyone else" or "recommend".
+2. Set a timer for about 20 minutes. That is usually enough for 15 to 30 useful posts.
+3. Copy each post exactly, with its link and date.
+4. Remove names and any detail that identifies the author. People wrote in a closed space, so keep these quotes for internal use and do not publish them.
 
 ## Prompt
 
@@ -63,7 +72,7 @@ GAPS: thin categories, sources you could not access, and audiences these sources
 
 ## Tip
 
-Run it in two different research tools and merge the results. A quote both tools found is one you can trust.
+Run the prompt in two different research tools and merge the results. A quote both tools found is one you can trust.
 
 ---
 
